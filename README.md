@@ -1,6 +1,6 @@
 ## My Professional Portfolio: the initial phase
 
-## My Journey and development
+## My Journey and Development
 
 Building my first website. So exciting!!!
 
