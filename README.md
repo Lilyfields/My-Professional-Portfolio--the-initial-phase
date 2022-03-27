@@ -29,11 +29,7 @@ THEN they will return to the main page of my profile
 
 <image src="https://user-images.githubusercontent.com/94832331/160284838-85ad3728-45a1-43c2-b738-a0e841225d75.png" width=500 height=250> 
   
-  <image src="https://user-images.githubusercontent.com/94832331/159479478-a3637ec2-d2c4-4ffb-b0cd-fb7f1db4c78d.png" width=300 height=150>
-
-
-
-
+ <image src="https://user-images.githubusercontent.com/94832331/160284987-9558a1b2-1a16-4c88-ad6b-e9456e23fa01.png" width=500 height=250>
 
 
 ## Key Features
