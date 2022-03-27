@@ -2,7 +2,7 @@
 
 ## My Journey and development
 
-Building my first website. So excited!
+Building my first website. So exciting!!!
 
 At this stage of my development, I've learnt to use HTML and CSS to design the layout and features of my profile.
 
